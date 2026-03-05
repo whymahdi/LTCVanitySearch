@@ -19,6 +19,7 @@
 #define GPUENGINEH
 
 #include <vector>
+#include <cstdint>
 #include "../SECP256k1.h"
 
 #define SEARCH_COMPRESSED 0
